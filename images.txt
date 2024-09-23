@@ -1,7 +1,10 @@
 tdengine/tdengine:3.3.2.0
 tdengine/tdengine:3.3.0.0
+tdengine/tdengine:3.0.4.2
 mysql:8.0
 minio/minio
 mongo:latest
 rabbitmq
 redis
+elasticsearch:7.3.2
+kibana:7.3.2
