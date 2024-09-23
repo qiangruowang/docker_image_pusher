@@ -1,6 +1,6 @@
 tdengine/tdengine:3.3.2.0
 tdengine/tdengine:3.3.0.0
-mysql/mysql:8.0
+mysql:8.0
 minio/minio
 mongo:latest
 rabbitmq
