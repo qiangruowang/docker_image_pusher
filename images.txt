@@ -8,3 +8,4 @@ rabbitmq
 redis
 elasticsearch:7.3.2
 kibana:7.3.2
+kartoza/geoserver
